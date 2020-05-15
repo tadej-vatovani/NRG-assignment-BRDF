@@ -1,0 +1,77 @@
+/Users/cirilbohak/git/RG2/Rendering/PathTracerFramework/bin/Debug/PathTracer.exe.config
+/Users/cirilbohak/git/RG2/Rendering/PathTracerFramework/bin/Debug/PathTracer.exe
+/Users/cirilbohak/git/RG2/Rendering/PathTracerFramework/bin/Debug/PathTracer.pdb
+/Users/cirilbohak/git/RG2/Rendering/PathTracerFramework/bin/Debug/MathNet.Numerics.dll
+/Users/cirilbohak/git/RG2/Rendering/PathTracerFramework/bin/Debug/MathNet.Spatial.dll
+/Users/cirilbohak/git/RG2/Rendering/PathTracerFramework/bin/Debug/System.ValueTuple.dll
+/Users/cirilbohak/git/RG2/Rendering/PathTracerFramework/bin/Debug/MathNet.Numerics.xml
+/Users/cirilbohak/git/RG2/Rendering/PathTracerFramework/bin/Debug/MathNet.Spatial.xml
+/Users/cirilbohak/git/RG2/Rendering/PathTracerFramework/obj/Debug/PathTracerFramework.csprojResolveAssemblyReference.cache
+/Users/cirilbohak/git/RG2/Rendering/PathTracerFramework/obj/Debug/PathTracer.MainWindow.resources
+/Users/cirilbohak/git/RG2/Rendering/PathTracerFramework/obj/Debug/PathTracer.Properties.Resources.resources
+/Users/cirilbohak/git/RG2/Rendering/PathTracerFramework/obj/Debug/PathTracerFramework.csproj.GenerateResource.Cache
+/Users/cirilbohak/git/RG2/Rendering/PathTracerFramework/obj/Debug/PathTracerFramework.csproj.CoreCompileInputs.cache
+/Users/cirilbohak/git/RG2/Rendering/PathTracerFramework/obj/Debug/PathTracer.exe
+/Users/cirilbohak/git/RG2/Rendering/PathTracerFramework/obj/Debug/PathTracer.pdb
+C:\Users\matic\temp\test\PathTracerFrameworkTemplate\obj\Debug\PathTracerFramework.csprojResolveAssemblyReference.cache
+C:\Users\matic\temp\test\PathTracerFrameworkTemplate\obj\Debug\PathTracer.MainWindow.resources
+C:\Users\matic\temp\test\PathTracerFrameworkTemplate\obj\Debug\PathTracer.Properties.Resources.resources
+C:\Users\matic\temp\test\PathTracerFrameworkTemplate\obj\Debug\PathTracerFramework.csproj.GenerateResource.Cache
+C:\Users\matic\temp\test\PathTracerFrameworkTemplate\obj\Debug\PathTracer.exe
+C:\Users\matic\temp\test\PathTracerFrameworkTemplate\obj\Debug\PathTracer.pdb
+C:\Users\matic\temp\test\PathTracerFrameworkTemplate\bin\Debug\PathTracer.exe.config
+C:\Users\matic\temp\test\PathTracerFrameworkTemplate\bin\Debug\PathTracer.exe
+C:\Users\matic\temp\test\PathTracerFrameworkTemplate\bin\Debug\PathTracer.pdb
+C:\Users\matic\temp\test\PathTracerFrameworkTemplate\bin\Debug\MathNet.Numerics.dll
+C:\Users\matic\temp\test\PathTracerFrameworkTemplate\bin\Debug\MathNet.Spatial.dll
+C:\Users\matic\temp\test\PathTracerFrameworkTemplate\bin\Debug\System.ValueTuple.dll
+C:\Users\matic\temp\test\PathTracerFrameworkTemplate\bin\Debug\MathNet.Numerics.xml
+C:\Users\matic\temp\test\PathTracerFrameworkTemplate\bin\Debug\MathNet.Spatial.xml
+D:\Downloads\Firefox\PathTracerFramework\bin\Debug\PathTracer.exe.config
+D:\Downloads\Firefox\PathTracerFramework\bin\Debug\PathTracer.exe
+D:\Downloads\Firefox\PathTracerFramework\bin\Debug\PathTracer.pdb
+D:\Downloads\Firefox\PathTracerFramework\bin\Debug\MathNet.Numerics.dll
+D:\Downloads\Firefox\PathTracerFramework\bin\Debug\MathNet.Spatial.dll
+D:\Downloads\Firefox\PathTracerFramework\bin\Debug\System.ValueTuple.dll
+D:\Downloads\Firefox\PathTracerFramework\bin\Debug\MathNet.Numerics.xml
+D:\Downloads\Firefox\PathTracerFramework\bin\Debug\MathNet.Spatial.xml
+D:\Downloads\Firefox\PathTracerFramework\obj\Debug\PathTracerFramework.csprojResolveAssemblyReference.cache
+D:\Downloads\Firefox\PathTracerFramework\obj\Debug\PathTracer.MainWindow.resources
+D:\Downloads\Firefox\PathTracerFramework\obj\Debug\PathTracer.Properties.Resources.resources
+D:\Downloads\Firefox\PathTracerFramework\obj\Debug\PathTracerFramework.csproj.GenerateResource.cache
+D:\Downloads\Firefox\PathTracerFramework\obj\Debug\PathTracerFramework.csproj.CoreCompileInputs.cache
+D:\Downloads\Firefox\PathTracerFramework\obj\Debug\PathTracerFramework.csproj.CopyComplete
+D:\Downloads\Firefox\PathTracerFramework\obj\Debug\PathTracer.exe
+D:\Downloads\Firefox\PathTracerFramework\obj\Debug\PathTracer.pdb
+D:\FRI\NRG\Homework 2\bin\Debug\PathTracer.exe.config
+D:\FRI\NRG\Homework 2\bin\Debug\PathTracer.exe
+D:\FRI\NRG\Homework 2\bin\Debug\PathTracer.pdb
+D:\FRI\NRG\Homework 2\bin\Debug\MathNet.Numerics.dll
+D:\FRI\NRG\Homework 2\bin\Debug\MathNet.Spatial.dll
+D:\FRI\NRG\Homework 2\bin\Debug\System.ValueTuple.dll
+D:\FRI\NRG\Homework 2\bin\Debug\MathNet.Numerics.xml
+D:\FRI\NRG\Homework 2\bin\Debug\MathNet.Spatial.xml
+D:\FRI\NRG\Homework 2\obj\Debug\PathTracerFramework.csprojResolveAssemblyReference.cache
+D:\FRI\NRG\Homework 2\obj\Debug\PathTracer.MainWindow.resources
+D:\FRI\NRG\Homework 2\obj\Debug\PathTracer.Properties.Resources.resources
+D:\FRI\NRG\Homework 2\obj\Debug\PathTracerFramework.csproj.GenerateResource.cache
+D:\FRI\NRG\Homework 2\obj\Debug\PathTracerFramework.csproj.CoreCompileInputs.cache
+D:\FRI\NRG\Homework 2\obj\Debug\PathTracerFramework.csproj.CopyComplete
+D:\FRI\NRG\Homework 2\obj\Debug\PathTracer.exe
+D:\FRI\NRG\Homework 2\obj\Debug\PathTracer.pdb
+D:\FRI\NRG\Seminar\bin\Debug\PathTracer.exe.config
+D:\FRI\NRG\Seminar\bin\Debug\PathTracer.exe
+D:\FRI\NRG\Seminar\bin\Debug\PathTracer.pdb
+D:\FRI\NRG\Seminar\bin\Debug\MathNet.Numerics.dll
+D:\FRI\NRG\Seminar\bin\Debug\MathNet.Spatial.dll
+D:\FRI\NRG\Seminar\bin\Debug\System.ValueTuple.dll
+D:\FRI\NRG\Seminar\bin\Debug\MathNet.Numerics.xml
+D:\FRI\NRG\Seminar\bin\Debug\MathNet.Spatial.xml
+D:\FRI\NRG\Seminar\obj\Debug\PathTracerFramework.csprojResolveAssemblyReference.cache
+D:\FRI\NRG\Seminar\obj\Debug\PathTracer.MainWindow.resources
+D:\FRI\NRG\Seminar\obj\Debug\PathTracer.Properties.Resources.resources
+D:\FRI\NRG\Seminar\obj\Debug\PathTracerFramework.csproj.GenerateResource.cache
+D:\FRI\NRG\Seminar\obj\Debug\PathTracerFramework.csproj.CoreCompileInputs.cache
+D:\FRI\NRG\Seminar\obj\Debug\PathTracerFramework.csproj.CopyComplete
+D:\FRI\NRG\Seminar\obj\Debug\PathTracer.exe
+D:\FRI\NRG\Seminar\obj\Debug\PathTracer.pdb
