@@ -56,18 +56,21 @@ namespace PathTracer
         public static Vector3 Rotate(Vector3 v, Vector3 axis, double angle)
         {
             double temp;
+
             double cos_ang = Math.Cos(angle);
             double sin_ang = Math.Sin(angle);
+
             Vector3 result = v * cos_ang;
 
-            temp = Dot(result, axis);
-            temp = temp * (1.0 - cos_ang);
+            temp = Dot(axis, v);
+            temp *= (1.0 - cos_ang);
 
-            result += axis * temp;
+            result += (axis * temp);
 
             Vector3 cross = Cross(axis, v);
 
-            return result + (cross * sin_ang);
+            result += cross * sin_ang;
+            return result;
         }
         /// <summary>
         /// Returns new vector3 as sum of parameters

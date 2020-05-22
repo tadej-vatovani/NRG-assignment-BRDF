@@ -12,11 +12,11 @@ namespace PathTracer
         Spectrum Lemit;
         bool onesided;
 
-        public RectangleLight(Quad q, Spectrum l, double intensity = 1, bool o = true)
+        public RectangleLight(Quad q, Spectrum l, double intensity = 1, bool onesided = true)
         {
             quad = q;
             Lemit = l * intensity;
-            onesided = o;
+            this.onesided = onesided;
         }
 
         public override (double?, SurfaceInteraction) Intersect(Ray r)

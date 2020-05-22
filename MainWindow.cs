@@ -18,7 +18,7 @@ namespace PathTracer
     System.Windows.Forms.Timer updateUI = new System.Windows.Forms.Timer();
     Stopwatch sw = new Stopwatch();
     Renderer r = null;
-    const int bitmapWidth = 160;
+    const int bitmapWidth = 400;
     Bitmap bmp;
 
     CancellationTokenSource tokenSource;

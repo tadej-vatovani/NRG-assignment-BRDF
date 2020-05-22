@@ -78,7 +78,7 @@ namespace PathTracer
       // Use ParallelOptions instance to store the CancellationToken
       ParallelOptions po = new ParallelOptions()
       {
-        MaxDegreeOfParallelism = 1,
+        MaxDegreeOfParallelism = 4,
         CancellationToken = token
       };
       try

@@ -47,7 +47,6 @@ namespace PathTracer
                     B = B * f * Utils.AbsCosTheta(wi) / pr;
 
 
-
                 //Spawn a new ray from the intersection
                 r = isect.SpawnRay(wi);
 
